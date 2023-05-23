@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "ali",
+      "password": "typicode"
+    },
+    {
+      "id": 1,
+      "name": "ali",
+      "password": "1122"
+    }
+  ]
+}
